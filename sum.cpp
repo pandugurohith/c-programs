@@ -14,4 +14,11 @@ int main()
     return 0;
 }
 
- 
+//output
+
+//Welcome to c++
+// Enter a value: 
+// 2
+// Enter b value:  
+// 3
+// sum of two values: 5
